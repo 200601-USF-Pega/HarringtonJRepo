@@ -1,11 +1,19 @@
 package com.revature.thursdaylunch_breakout.models;
 
+import java.util.Random;
+
 public class Philosopher implements Runnable {
 
     // The forks on either side of this Philosopher 
     private Object leftFork;
     private Object rightFork;
  
+    //Ending condition
+    private Boolean isFull;
+    
+    //How much it needs to eat
+    private int hungerVal = new Random().nextInt(5);
+    
     //Constructor Class of the Philosopher
     public Philosopher(Object leftFork, Object rightFork) {
         this.leftFork = leftFork;
@@ -25,7 +33,7 @@ public class Philosopher implements Runnable {
 	@Override
     public void run() {
         try {
-            while (true) {
+            while (hungerVal > 0) {
                  
                 // thinking
                 doAction(System.nanoTime() + ": Thinking");
@@ -42,6 +50,7 @@ public class Philosopher implements Runnable {
                         doAction(
                           System.nanoTime() 
                             + ": Put down right fork");
+                        hungerVal--;
                     }
                      
                     // Back to thinking
