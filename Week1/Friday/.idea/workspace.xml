@@ -19,17 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffef43b6-3876-4dd9-9695-90389848ce85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/Code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JacobTourOfHeroes/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JacobTourOfHeroes/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JacobTourOfHeroes/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JacobTourOfHeroes/JacobTourOfHeroes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JacobTourOfHeroes/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ffef43b6-3876-4dd9-9695-90389848ce85" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,12 +78,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591370052607">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591370052607" />
+    <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1591374038403">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591374038403" />
     <state width="914" height="266" key="GridCell.Tab.0.bottom" timestamp="1591372515012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -126,5 +121,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1096" y="244" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591370797374" />
+    <state x="1103" y="229" key="search.everywhere.popup" timestamp="1591373998637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591373998637" />
   </component>
 </project>
